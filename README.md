@@ -33,6 +33,4 @@ This project helps you understand basic DOM manipulation and event handling in J
 * DOM Traversal
 
 ##  Author
-
-Your Name Here
 Vyshnavi Chhetri
